@@ -1,0 +1,25 @@
+body {
+    margin-top: 40;
+    color: green;
+    
+  }
+  .image{
+    width: 100%;
+  }
+
+  .titleText {
+      text-align: center;
+      font-size: 100px;
+  }
+
+  .jumbotron {
+      background-color: lightgrey;
+  }
+
+  .caption {
+      text-align: center;
+  }
+
+  .footerText {
+      text-align: center;
+  }
