@@ -7,7 +7,8 @@ Responded to the Savannah Georgia Historical Society that requested a webpage wi
 2.  I created a short description of each park beside its name.
 3.  I broke the parks into significant date clusters.
 4.  I only used HTML and CSS for this webpage as was the request at the time.
-5.  I added a link to a more detailed page for the squares for the reader.
+5.  The page is responsive to all screen sizes.
+6.  I added a link to a more detailed page for the squares for the reader.
 
 **Web Page**
 
